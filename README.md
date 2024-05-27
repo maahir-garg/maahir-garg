@@ -8,6 +8,6 @@ I am currently studying in the National University of Singapore. This is where I
 ## 🤝 How to Reach Me:
 
 Feel free to reach out for collaborations or just for a chat:
-- 📧 [Email](maahirrgarg@gmail.com)
+- 📧 [Email](mailto:maahirrgarg@gmail.com)
 - [LinkedIn](www.linkedin.com/in/maahir-garg)
 
